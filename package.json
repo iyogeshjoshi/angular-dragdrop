@@ -8,8 +8,8 @@
   "main": "src/angular-dragdrop.js",
   "dependencies": {},
   "devDependencies": {
-    "grunt": "~0.4.1",
-    "grunt-karma": "~0.4.4"
+    "grunt": "~1.6.1",
+    "grunt-karma": "~4.0.2"
   },
   "scripts": {},
   "repository": {
